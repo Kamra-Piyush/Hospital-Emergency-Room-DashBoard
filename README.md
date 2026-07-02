@@ -1,8 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 
-An interactive Power BI dashboard designed to monitor and analyze the daily operations of a hospital's Emergency Room (ER). The dashboard provides a monthly view of key performance indicators, patient demographics, admission trends, and department referrals to support data-driven decision-making for hospital management.
-
-![Dashboard Preview](Screenshot_2026-07-02_131200.png)
+An interactive Power BI dashboard designed to monitor and analyze the daily operations of a hospital's Emergency Room (ER). The dashboard provides a monthly view of key performance indicators, patient demographics, admission trends, and department referrals to support data-driven decision-making for hospital management
 
 ---
 
@@ -59,7 +57,7 @@ The **Hospital Emergency Room Dashboard** consolidates critical ER metrics into 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/hospital-er-dashboard.git
+   git clone https://github.com/Kamra-Piyush/hospital-er-dashboard.git
    ```
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. Use the **Month Name** and **Year** filters at the top-right to explore different time periods.
